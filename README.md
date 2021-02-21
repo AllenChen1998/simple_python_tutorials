@@ -3,8 +3,8 @@
 + suitable for beginners with low barrier
 
 # Structure
-+ Data Type
-   + int: +, -, \*, \*\*, /, //, %
++ Data
+   + int: +,  -,  \*,  \*\*,  /,  //,  %
    + float: +, -, \*, /
    + bool: and, or, not
-   + str: +, -, \*, [], len(), .upper(), .format() / %, .replace(), .split(), .rind(), [...](https://blog.csdn.net/marvin_wind/article/details/79903175)
+   + str: +, -, \*, [], len(), .upper(), .format() / %, .replace(), .split(), .rind(), [......](https://blog.csdn.net/marvin_wind/article/details/79903175)

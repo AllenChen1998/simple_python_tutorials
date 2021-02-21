@@ -28,7 +28,7 @@
    + \*class: class v.s. object, init, self, inherit
    + external code: import, main, pip
    + environment (anaconda): install, package, create
-   + EXERCISE: create a new environment to run Excel application, also print it with prettytable in another function
+   + EXERCISE: create a environment with prettytable to run Excel application, print it with function
 + Applications
    + os: listdir, makedirs, walk
    + time: .time(), .localtime(), .strftime()

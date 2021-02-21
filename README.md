@@ -1,8 +1,8 @@
 # Python
-+ simplied from [official tutorials](https://docs.python.org/3.8/tutorial/index.html)
++ simplied tutorials from [official tutorials](https://docs.python.org/3.8/tutorial/index.html)
 + suitable for beginners with low barrier
 
-# Structure
+# Contents
 + Data
    + int: +, -, \*, \*\*, /, //, %
    + float: +, -, \*, \*\*, /
@@ -29,11 +29,15 @@
    + external code: import, main, pip
    + environment (anaconda): install, package, create
    + EXERCISE: create a new environment to run Excel application, also print it with prettytable in another function
-+ More
-   + os
-   + time
-   + argparse
++ Applications
+   + os: listdir, makedirs, walk
+   + time: .time(), .localtime(), .strftime()
+   + argparse: default, type, help
    + EXERCISE: copy files
-   + \*numpy
-   + \*PIL
-   + \*EXERCISE: flip an image
+   + \*numpy: [], math, .shape, ,dtype, .random
+   + \*PIL.Image: open, ->np, fromarray, save
+   + \*EXERCISE: flip an image, add gaussion noise
+
+# Author
++ [Sizhe Chen](https://sizhechen.top) in Shanghai Jiao Tong University (SJTU)
++ Hope my dear sister learns it well

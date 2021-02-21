@@ -4,7 +4,10 @@
 
 # Structure
 + Data
-   + int: +,  -,  \*,  \*\*,  /,  //,  %
-   + float: +, -, \*, /
-   + bool: and, or, not
+   + int: +, -, \*, \*\*, /, //, %
+   + float: +, -, \*, \*\*, /
+   + bool: and, or, not, ==
    + str: +, -, \*, [], len(), .upper(), .format() / %, .replace(), .split(), .rind(), [......](https://blog.csdn.net/marvin_wind/article/details/79903175)
+   + tuple: [], len(), comprehension
+   + list: +, \*, [], len(), .append(), .sort(), comprehension
+   + dictionary
